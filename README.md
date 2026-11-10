@@ -1,10 +1,12 @@
 README del repo de DEAW para ejercicios de github
 
+
+
 Alberto Pascual Sánchez-Garrido
 
 
 
-## Compañeros
+\## Compañeros
 
 
 
@@ -17,6 +19,4 @@ Alberto Pascual Sánchez-Garrido
 | Alejandro Requena | https://github.com/RequenaTorres |
 
 | Carlos Mallo Ruiz | https://github.com/cmalloruiz0703 |
-
-
 
